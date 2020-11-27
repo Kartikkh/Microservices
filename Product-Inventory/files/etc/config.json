@@ -1,0 +1,127 @@
+{
+  "server": {
+    "address": "localhost:8000"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Product-1",
+      "stock": 5,
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Product-2",
+      "stock": 10,
+      "price": 1400
+    },
+    {
+      "id": 3,
+      "name": "Product-3",
+      "stock": 10,
+      "price": 1020
+    },
+    {
+      "id": 4,
+      "name": "Product-4",
+      "stock": 10,
+      "price": 101230
+    },
+    {
+      "id": 5,
+      "name": "Product-5",
+      "stock": 10,
+      "price": 10310
+    },
+    {
+      "id": 6,
+      "name": "Product-6",
+      "stock": 10,
+      "price": 1001
+    },
+    {
+      "id": 6,
+      "name": "Product-7",
+      "stock": 10,
+      "price": 100
+    },
+    {
+      "id": 8,
+      "name": "Product-8",
+      "stock": 10,
+      "price": 100
+    },
+    {
+      "id": 9,
+      "name": "Product-9",
+      "stock": 10,
+      "price": 100
+    },
+    {
+      "id": 10,
+      "name": "Product-10",
+      "stock": 10,
+      "price": 100
+    },
+    {
+      "id": 11,
+      "name": "Product-11",
+      "stock": 10,
+      "price": 100
+    },
+    {
+      "id": 12,
+      "name": "Product-12",
+      "stock": 10,
+      "price": 100
+    },
+    {
+      "id": 13,
+      "stock": 10,
+      "name": "Product-13",
+      "price": 100
+    },
+    {
+      "id": 14,
+      "stock": 10,
+      "name": "Product-14",
+      "price": 100
+    },
+    {
+      "id": 15,
+      "stock": 10,
+      "name": "Product-15",
+      "price": 100
+    },
+    {
+      "id": 16,
+      "stock": 10,
+      "name": "Product-16",
+      "price": 100
+    },
+    {
+      "id": 17,
+      "name": "Product-17",
+      "stock": 10,
+      "price": 100
+    },
+    {
+      "id": 18,
+      "name": "Product-18",
+      "stock": 10,
+      "price": 200
+    },
+    {
+      "id": 19,
+      "name": "Product-19",
+      "stock": 10,
+      "price": 1000
+    },
+    {
+      "id": 20,
+      "name": "Product-20",
+      "stock": 10,
+      "price": 100
+    }
+  ]
+}
