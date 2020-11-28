@@ -14,7 +14,7 @@ func main() {
 		log.Println("couldn't Initialize module config", err)
 		return
 	}
-	interactorObj := generateInteractor(cfg)
+	interactorObj := generateInteractor()
 	h := web.Handler{Cfg: cfg, Interactor: interactorObj}
 	server := web.New(&h)
 	go server.Run()
@@ -25,7 +25,7 @@ func main() {
 	}
 }
 
-func generateInteractor(cfg *config.Config) *web.Interactor {
+func generateInteractor() *web.Interactor {
 	var interactor = &web.Interactor{
 		CartInteractor: usecases.Init(dao.New()),
 	}

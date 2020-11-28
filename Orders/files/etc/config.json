@@ -1,0 +1,16 @@
+{
+  "server": {
+    "address": "localhost:8000",
+    "product" : {
+      "api_host" : "http://127.0.0.1:8001"
+    },
+    "cart" : {
+      "api_host" : "http://127.0.0.1:8002"
+    }
+  },
+  "circuit_breaker":{
+    "error_threshold" : 2,
+    "success_threshold" : 1,
+    "timeout" : 500
+  }
+}
