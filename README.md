@@ -1,6 +1,6 @@
 # Microservices
 
-> This is a flow for Order Management system which involves 3 Microservices
+> This is a flow for order management system which involves 3 Microservices
  
 - [Product Inventory](https://github.com/Kartikkh/Microservices/tree/master/Product-Inventory) Product. 
 - [Cart](https://github.com/Kartikkh/Microservices/tree/master/Cart) cart   
